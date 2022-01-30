@@ -2,7 +2,10 @@ fileFormatVersion: 2
 guid: 30afcfe23a8bb480b942cf59e69d1b35
 ModelImporter:
   serializedVersion: 20200
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      74: 6980750841690902975
+    second: LightStrip|LightStripAction
   externalObjects: {}
   materials:
     materialImportMode: 2
